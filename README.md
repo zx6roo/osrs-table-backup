@@ -4,7 +4,7 @@ This bookmarklet saves the current Old School RuneScape Wiki page’s `rs:lightT
 
 ## How to Use
 
-1. Copy the **minified** code from `add-page-to-osrs-table-backup.min.js`.
+1. Copy the **minified** code from `osrs-add-page-to-table-backup.min.js`.
 2. Create a new bookmark in your browser.
 3. Paste the minified code into the bookmark’s URL/location field.
 4. Visit any OSRS Wiki page with lighttables.
